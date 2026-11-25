@@ -1,0 +1,2 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+body { @apply text-slate2 bg-white antialiased; }
